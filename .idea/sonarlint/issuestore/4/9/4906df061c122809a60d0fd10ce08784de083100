@@ -1,0 +1,25 @@
+
+HWeb:TableWithoutCaptionCheck;" Add a description to this table.(°ôÀ®
+>	Web:S1827;")Remove this deprecated "width" attribute.(°ôÀ®
+D	Web:S1827;"/Remove this deprecated "cellspacing" attribute.(°ôÀ®
+D	Web:S1827;"/Remove this deprecated "cellpadding" attribute.(°ôÀ®
+>	Web:S1827=")Remove this deprecated "align" attribute.(ê·¦
+l Web:TableHeaderHasIdOrScopeCheck>";Add either an 'id' or a 'scope' attribute to this <th> tag.(ê‘´¬ÿÿÿÿÿ
+>	Web:S1827?")Remove this deprecated "width" attribute.(Üèˆº
+g Web:TableHeaderHasIdOrScopeCheck?";Add either an 'id' or a 'scope' attribute to this <th> tag.(Üèˆº
+>	Web:S1827@")Remove this deprecated "width" attribute.(Ÿ‰µş
+g Web:TableHeaderHasIdOrScopeCheck@";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ÿ‰µş
+C	Web:S1827A")Remove this deprecated "width" attribute.(§ìÚ‰ùÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckA";Add either an 'id' or a 'scope' attribute to this <th> tag.(§ìÚ‰ùÿÿÿÿ
+>	Web:S1827B")Remove this deprecated "width" attribute.(üÛ
+g Web:TableHeaderHasIdOrScopeCheckB";Add either an 'id' or a 'scope' attribute to this <th> tag.(üÛ
+C	Web:S1827C")Remove this deprecated "width" attribute.(¦ÙÈ×ùÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckC";Add either an 'id' or a 'scope' attribute to this <th> tag.(¦ÙÈ×ùÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckD";Add either an 'id' or a 'scope' attribute to this <th> tag.(ıÀ¶Ûûÿÿÿÿ
+=	Web:S1827I")Remove this deprecated "align" attribute.(Öá
+C	Web:S1827J")Remove this deprecated "align" attribute.(ÀÀ““şÿÿÿÿ
+C	Web:S1827K")Remove this deprecated "align" attribute.(Ã©ˆüşÿÿÿÿ
+C	Web:S1827L")Remove this deprecated "align" attribute.(á›°şıÿÿÿÿ
+>	Web:S1827M")Remove this deprecated "align" attribute.(Í¬»±
+>	Web:S1827N")Remove this deprecated "align" attribute.(ó™÷ì
+C	Web:S1827O")Remove this deprecated "align" attribute.(­³”Óıÿÿÿÿ

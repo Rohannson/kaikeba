@@ -1,0 +1,16 @@
+
+J
+java:S3740A"/Provide the parametrized type for this generic.(—ÿë™þÿÿÿÿ
+E
+java:S3740N"/Provide the parametrized type for this generic.(ó„æÎ
+J
+java:S3740Z"/Provide the parametrized type for this generic.(ãÌ¯Ãúÿÿÿÿ
+Q	java:S125)"<This block of commented-out lines of code should be removed.(Ô¡á
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.io.InputStream'.(¹»º
+G
+java:S1128	"1Remove this unused import 'java.util.Properties'.(¬µŽ²
+T
+java:S1155B">Use isEmpty() to check whether the collection is empty or not.(•ñ¥À

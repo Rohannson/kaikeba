@@ -1,0 +1,48 @@
+
+’
+java:S11301"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(ù®¯Çÿÿÿÿÿ
+’
+java:S1130@"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(ýÈƒíÿÿÿÿÿ
+[	java:S106’"9Replace this use of System.out or System.err by a logger.(Ý°ÖÞýÿÿÿÿ8ù‡è±ý/
+W
+java:S1854µ"@Remove this useless assignment to local variable "introduction".(ÎçÎ’
+Z
+java:S1854´">Remove this useless assignment to local variable "profession".(ÝÎÕÐûÿÿÿÿ
+X
+java:S1854³"<Remove this useless assignment to local variable "idNumber".(”Î¦ýøÿÿÿÿ
+X
+java:S1854²"<Remove this useless assignment to local variable "politics".(É¾¾ðüÿÿÿÿ
+Z
+java:S1854°">Remove this useless assignment to local variable "registered".(Ú‘˜µûÿÿÿÿ
+U
+java:S1854¯"9Remove this useless assignment to local variable "phone".(¼ÛçÅÿÿÿÿÿ
+P
+java:S1854®"9Remove this useless assignment to local variable "email".(×Áâ¹
+N
+java:S1854¬"7Remove this useless assignment to local variable "gid".(™×¼ø
+P
+java:S1854ª"9Remove this useless assignment to local variable "stuNo".(Í×óý
+Ž
+java:S1130¨"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(ø¡¡
+A
+java:S1481ª"*Remove this unused "stuNo" local variable.(Í×óý
+?
+java:S1481¬"(Remove this unused "gid" local variable.(™×¼ø
+A
+java:S1481®"*Remove this unused "email" local variable.(×Áâ¹
+F
+java:S1481¯"*Remove this unused "phone" local variable.(¼ÛçÅÿÿÿÿÿ
+K
+java:S1481°"/Remove this unused "registered" local variable.(Ú‘˜µûÿÿÿÿ
+I
+java:S1481²"-Remove this unused "politics" local variable.(É¾¾ðüÿÿÿÿ
+I
+java:S1481³"-Remove this unused "idNumber" local variable.(”Î¦ýøÿÿÿÿ
+K
+java:S1481´"/Remove this unused "profession" local variable.(ÝÎÕÐûÿÿÿÿ
+H
+java:S1481µ"1Remove this unused "introduction" local variable.(ÎçÎ’
+s
+java:S11926"XDefine a constant instead of duplicating this literal "text/html;charset=utf-8" 4 times.(€‹•€þÿÿÿÿ
+Y
+java:S1155V">Use isEmpty() to check whether the collection is empty or not.(ÁÂ…Ÿþÿÿÿÿ
